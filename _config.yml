@@ -1,0 +1,28 @@
+name: cornelis
+favicon: null
+layout_spectrum: 0.0885942482855171
+typography_spectrum: 0.91094826371409
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.529864412965253
+  lightness: 0.4122728102374822
+  saturation: 0.41058449796400964
+  rhythmicContrast: 0.7071797586977482
+purpose: []
